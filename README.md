@@ -9,7 +9,14 @@
 
 
 
-print("\n\n\n")
+
+
+
+
+
+
+
+
 ## RUN BELOW COMMAND ON YOUR TERMINAL FOR INSTALL THIS TOOL
 
 
@@ -23,6 +30,19 @@ print("\n\n\n")
 - git clone https://github.com/Termux-lover-AhesanCoxiT/AHESAN-BOMBER.git
 - pip install -r requirements.txt
 - cd AHESAN-BOMBER
+- python bomber.py
+
+
+
+
+
+
+
+# If You are installed first Time. for Every Time Use This TooL Run below command
+
+
+- cd AHESAN-BOMBER
+ 
 - python bomber.py
 
 
