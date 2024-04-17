@@ -32,4 +32,7 @@
 
 
 
-# PLease Don't Use This Tool Without bad reasone or Crime. Owner not responsible any illegible Work.
+## Note:👇
+
+
+PLease Don't Use This Tool Without bad reasone or Crime. Owner not responsible any illegible Work.
