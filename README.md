@@ -4,5 +4,5 @@
 
 
 
--pkg update -y
--pkg upgrade -y
+- pkg update -y
+- pkg upgrade -y
