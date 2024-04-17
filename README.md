@@ -32,7 +32,6 @@
 - pip install requests
 - pip install pyfiglet
 - git clone https://github.com/Termux-lover-AhesanCoxiT/AHESAN-BOMBER
-- pip install -r requirements.txt
 - cd AHESAN-BOMBER
 - python bomber.py
 
