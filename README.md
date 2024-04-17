@@ -27,6 +27,10 @@
 - pkg upgrade -y
 - pkg install git -y
 - pkg install python -y
+- pip install colorama
+- pip install termcolor
+- pip install requests
+- pip install pyfiglet
 - git clone https://github.com/Termux-lover-AhesanCoxiT/AHESAN-BOMBER
 - pip install -r requirements.txt
 - cd AHESAN-BOMBER
