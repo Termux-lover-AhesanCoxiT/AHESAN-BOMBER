@@ -25,3 +25,11 @@
 - pip install -r requirements.txt
 - cd AHESAN-BOMBER
 - python bomber.py
+
+
+
+
+
+
+
+# PLease Don't Use This Tool Without bad reasone or Crime. Owner not responsible any illegible Work.
